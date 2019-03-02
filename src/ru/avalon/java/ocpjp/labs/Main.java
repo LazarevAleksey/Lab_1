@@ -3,6 +3,7 @@ package ru.avalon.java.ocpjp.labs;
 import ru.avalon.java.ocpjp.labs.console.ConsoleUI;
 
 import java.io.IOException;
+// bobru
 
 /**
  * Лабораторная работа №2
